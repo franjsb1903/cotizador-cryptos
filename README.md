@@ -2,6 +2,8 @@
 
 Aplicación para cotizar criptomonedas, conociendo su precio actual, su precio durante el día y su porcentage de variación.
 
+**Aquí puedes ver la [aplicación](https://comforting-melomakarona-f5fc92.netlify.app/).**
+
 ## Tecnologías
 
 La aplicación ha sido creada con las siguientes tecnologías:
